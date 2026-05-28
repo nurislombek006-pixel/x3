@@ -1,0 +1,13 @@
+{
+  "users": {},
+  "help": {
+    "description": "Для жесткой привязки устройства добавь ID пользователя и fingerprint из отчета бота.",
+    "example": {
+      "5305261101": {
+        "active": true,
+        "fingerprint": "PASTE_DEVICE_FINGERPRINT_FROM_BOT_REPORT",
+        "reason": "Доступ разрешён только с одного устройства."
+      }
+    }
+  }
+}
